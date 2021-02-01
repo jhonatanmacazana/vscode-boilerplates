@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.h": "c",
+    "*.c": "c",
+    "*.hpp": "cpp",
+    "*.cpp": "cpp"
+  },
+  "files.exclude": {
+    "**/.envrc": true,
+    "**/.DS_Store": true,
+    "**/out": true,
+    "**/build": true
+  },
+  "C_Cpp.autoAddFileAssociations": false,
+  "C_Cpp.intelliSenseEngine": "Default"
+}
