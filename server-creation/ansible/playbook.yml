@@ -1,0 +1,10 @@
+---
+- hosts: servers
+  remote_user: root
+  vars:
+    - docker_compose_version: '1.27.4'
+    - docker_users:
+        - 'jmacazana'
+  roles:
+    - postinstall
+    - geerlingguy.docker

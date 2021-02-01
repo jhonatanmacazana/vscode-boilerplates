@@ -4,4 +4,5 @@ Boilerplates for different projects.
 
 Currently supports:
 
-* c
+* c code
+* server creation and provisioning 
