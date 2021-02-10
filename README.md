@@ -6,3 +6,4 @@ Currently supports:
 
 * c code
 * server creation and provisioning 
+* typescript library application
