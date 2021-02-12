@@ -5,6 +5,7 @@ Boilerplates for different projects.
 Currently supports:
 
 * c code
-* server creation and provisioning 
+* react with parcel for fast development projects
+* server creation and provisioning with terraform and ansible 
 * typescript express server with postgress support with typeorm
 * typescript library application
