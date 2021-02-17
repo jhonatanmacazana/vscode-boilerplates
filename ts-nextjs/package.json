@@ -1,0 +1,25 @@
+{
+  "name": "ts-nextjs-seo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "watch": "next dev"
+  },
+  "dependencies": {
+    "next": "^10.0.3",
+    "next-images": "1.6.2",
+    "react": "17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.25",
+    "@types/react": "^17.0.1",
+    "@types/styled-components": "^5.1.7",
+    "@types/webpack-env": "^1.16.0",
+    "babel-plugin-styled-components": "^1.12.0",
+    "typescript": "^4.1.3"
+  }
+}
